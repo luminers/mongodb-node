@@ -86,7 +86,7 @@ app.put("/usuarios/:nombre", async (req, res) => {
 });
 
 // Endpoint para obtener un usuario por nombre
-app.get("/usuarios/nombre/:nombre", async (req, res) => {
+app.get("/usuarios/:nombre", async (req, res) => {
   try {
     const { nombre } = req.params;
     const usuario = await UsuariosModel.findOne({ Nombre: nombre });
