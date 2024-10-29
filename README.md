@@ -1,5 +1,5 @@
 # 🛠️ API CRUD de Usuarios con Node.js y MongoDB
-API sencilla construida con Node.js y Express que permite realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) en una base de datos MongoDB. La API gestiona un modelo de usuarios con información básica como nombre, edad, descripción y fecha de creación.
+API sencilla construida con Node.js y Express en el lenguaje de JAVASCRIPT que permite realizar operaciones CRUD (Crear, Leer, Actualizar, Borrar) en una base de datos MongoDB. La API gestiona un modelo de usuarios con información básica como nombre, edad, descripción y fecha de creación.
 
 🛠️ [Documentación en SWAGGER](https://app.swaggerhub.com/apis/JoaquinNunez/MongoNodeExample/1.0.0)
 
